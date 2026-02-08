@@ -21,7 +21,7 @@ Este repositório reúne meus estudos, práticas e projetos voltados ao desenvol
 
 ### 📌 Sobre este perfil
 
-- 📚 Estudante focado em fundamentos sólidos de Front-End  
+- 📚 Estudante focado em fundamentos sólidos do desenvolvimento web  
 - 🧠 Aprendendo na prática com exercícios e pequenos projetos  
 - 🚀 Evoluindo gradualmente para aplicações mais completas  
 
