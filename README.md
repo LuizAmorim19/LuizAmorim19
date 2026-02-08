@@ -1,5 +1,5 @@
 ## Olá, sou Luiz Antonio Amorim! 👋  
-💻 **Estudante de Desenvolvimento Front-End**
+💻 **Estudante de Desenvolvimento Web**
 🎓 **Graduando em Engenharia da Computação pela UNIVASF**  
 
 Este repositório reúne meus estudos, práticas e projetos voltados ao desenvolvimento web moderno, com foco na construção de uma base sólida em Front-End.
